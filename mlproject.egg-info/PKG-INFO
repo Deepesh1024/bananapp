@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.1
+Author: ['Deepesh', 'Ayush']
+Author-email: ['d4deepesh@gmail.com', 'ayush89718@gmail.com']
+Requires-Dist: numpy

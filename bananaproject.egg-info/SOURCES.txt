@@ -1,0 +1,7 @@
+README.md
+setup.py
+bananaproject.egg-info/PKG-INFO
+bananaproject.egg-info/SOURCES.txt
+bananaproject.egg-info/dependency_links.txt
+bananaproject.egg-info/requires.txt
+bananaproject.egg-info/top_level.txt
